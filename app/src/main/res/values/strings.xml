@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">FoodApp</string>
+
+    <string-array name="foodname">
+        <item>Spaghetti</item>
+        <item>Shawarma</item>
+        <item>Chicken Nugget</item>
+        <item>Fish And Chips</item>7
+        <item>Hamburger</item>
+        <item>Scotch Eggs</item>
+        <item>Sandwiches</item>
+        <item>Pizza</item>
+
+    </string-array>
+
+    <string-array name="desc">
+        <item>Spaghetti is a long, thin, cylindrical, solid pasta.It is a staple food of traditional Italian
+            cuisine made of milled wheat and water.</item>
+        <item>Shawarma is a Levantine meat preparation, where lamb, chicken, turkey, beef, veal, or mixed meats
+            are placed on a spit, and may be grilled.</item>
+        <item>Chicken Nugget is a chicken product made from chicken meat which is breaded or battered,
+            then deep-fried or baked.</item>
+        <item>Fish And Chips is a hot dish of English origin consisting of fried battered fish and hot potato chips.</item>
+        <item>Hamburger is a sandwich consisting of one or more cooked patties of ground meat placed inside
+            a sliced bread roll or bun. </item>
+        <item>Scotch Eggs is a hard-boiled egg wrapped in sausage meat, coated in bread crumbs and baked or deep-fried.</item>
+        <item>Sandwiches is a food typically consisting of vegetables, sliced cheese or meat, placed on or between slices of bread.</item>
+        <item>Pizza a yeasted flatbread typically topped with tomato sauce and cheese and baked in an oven.</item>
+
+    </string-array>
+</resources>
